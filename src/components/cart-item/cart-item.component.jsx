@@ -10,8 +10,8 @@ const CartItem = ({ cartItem }) => {
         <span>
           {quantity} x ${price}
         </span>
-      </ItemDetails>
-    </CartItemContainer>
+        </ItemDetails>
+        </CartItemContainer>
   );
 };
 
